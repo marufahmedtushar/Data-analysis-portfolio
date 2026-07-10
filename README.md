@@ -80,6 +80,35 @@ Dashboard(Image):
 
 [See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard/edit/main/README.md)
 
+👟 Adidas US Sales Dashboard
+
+Tools
+
+-Excel
+
+-Power BI
+
+-Python
+
+Features
+
+-Overview
+
+-Trend Analysis
+
+-Product Performance
+
+-Location Wise Performance
+
+-Retailer Performance
+
+Dashboard(Image):
+
+<img width="712" height="400" alt="overview" src="https://github.com/user-attachments/assets/0f9c31b1-9234-47d1-b7f6-c36cdb5d72c7" />
+
+[See Details](https://github.com/marufahmedtushar/Adidas-US-Sales-Dashboard/blob/main/README.md)
+
+
 Rx Data Collector
 
 Tools
