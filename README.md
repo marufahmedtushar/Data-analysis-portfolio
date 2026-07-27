@@ -104,7 +104,8 @@ Features
 
 Dashboard(Image):
 
-<img width="712" height="400" alt="overview" src="https://github.com/user-attachments/assets/0f9c31b1-9234-47d1-b7f6-c36cdb5d72c7" />
+<img width="712" height="400" alt="Overview" src="https://github.com/user-attachments/assets/57a9deae-9c96-4aa5-8f8f-f80dbe716c3e" />
+
 
 [See Details](https://github.com/marufahmedtushar/Adidas-US-Sales-Dashboard/blob/main/README.md)
 
