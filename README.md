@@ -78,7 +78,7 @@ Dashboard(Image):
 
 <img width="712" height="399" alt="coffe 1" src="https://github.com/user-attachments/assets/300f7d74-aee7-49e3-aa7b-fc73a6c194d6" />
 
-[See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard/edit/main/README.md)
+[See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard)
 
 👟 Adidas US Sales Dashboard
 
