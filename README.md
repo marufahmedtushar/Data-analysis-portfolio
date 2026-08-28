@@ -26,6 +26,34 @@ Dashboard Design
 
 **Featured Projects**
 
+👟 Adidas US Sales Dashboard
+
+Tools
+
+-Excel
+
+-Power BI
+
+-Python
+
+Features
+
+-Overview
+
+-Trend Analysis
+
+-Product Performance
+
+-Location Wise Performance
+
+-Retailer Performance
+
+Dashboard(Image):
+
+<img width="712" height="400" alt="Overview" src="https://github.com/user-attachments/assets/57a9deae-9c96-4aa5-8f8f-f80dbe716c3e" />
+
+[See Details](https://github.com/marufahmedtushar/Adidas-US-Sales-Dashboard/blob/main/README.md)
+
 🚗 Road Accident Dashboard
 
 Tools
@@ -79,36 +107,6 @@ Dashboard(Image):
 <img width="712" height="399" alt="coffe 1" src="https://github.com/user-attachments/assets/300f7d74-aee7-49e3-aa7b-fc73a6c194d6" />
 
 [See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard)
-
-👟 Adidas US Sales Dashboard
-
-Tools
-
--Excel
-
--Power BI
-
--Python
-
-Features
-
--Overview
-
--Trend Analysis
-
--Product Performance
-
--Location Wise Performance
-
--Retailer Performance
-
-Dashboard(Image):
-
-<img width="712" height="400" alt="Overview" src="https://github.com/user-attachments/assets/57a9deae-9c96-4aa5-8f8f-f80dbe716c3e" />
-
-
-[See Details](https://github.com/marufahmedtushar/Adidas-US-Sales-Dashboard/blob/main/README.md)
-
 
 Rx Data Collector
 
