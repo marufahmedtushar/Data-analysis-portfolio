@@ -26,6 +26,37 @@ Dashboard Design
 
 **Featured Projects**
 
+📦 Retail Supply Chain Sales Dashboard
+
+Tools
+
+-Excel
+
+-Pivot Tables
+
+-Power Query
+
+-Slicers & Timelines
+
+Features
+
+-Sales & Revenue Trends
+
+-Shipping Mode Analysis
+
+-Region Wise Sales
+
+-Product Profitability (Top 10 Profit/Discounted Products)
+
+-Category Wise Sales Breakdown
+
+-Top Customers Analysis
+
+-Returned Products Tracking
+
+Dashboard (Image):<img width="1177" height="862" alt="Screendshot (34)" src="https://github.com/user-attachments/assets/d6548971-f609-4e4c-a5c9-68e7bd50f218" />
+
+
 👟 Adidas US Sales Dashboard
 
 Tools
