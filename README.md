@@ -56,6 +56,7 @@ Features
 
 Dashboard (Image):<img width="1177" height="862" alt="Screendshot (34)" src="https://github.com/user-attachments/assets/d6548971-f609-4e4c-a5c9-68e7bd50f218" />
 
+[See Details](https://github.com/marufahmedtushar/Retail-Supply-Chain-Sales-Dashboard/blob/main/README.md)
 
 👟 Adidas US Sales Dashboard
 
